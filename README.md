@@ -13,12 +13,6 @@
 <a href="https://instagram.com/luca.broggy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luca.broggy" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magitman&show_icons=true&locale=en&layout=compact" alt="magitman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=magitman&show_icons=true&locale=en" alt="magitman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magitman&" alt="magitman" /></p>
-
 <!---
 Magitman/Magitman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
